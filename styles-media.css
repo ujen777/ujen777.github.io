@@ -1,22 +1,22 @@
-@media only screen and (max-device-width: 400px) {
+@media (max-width: 400px) {
 	#black-bar {
 		font-size: 14px;
 	}
 }
 
-@media only screen and (max-device-width: 350px) {
+@media (max-width: 350px) {
 	#black-bar {
 		font-size: 13px;
 	}
 }
 
-@media only screen and (max-device-width: 540px) {
+@media (max-width: 540px) {
 	#datetime {
 		display: none;
 	}
 }
 
-@media only screen and (max-device-width: 1050px) {
+@media (max-width: 1050px) {
 	#menu {
 		display: none;
 	}
@@ -49,26 +49,26 @@
 	}
 }
 
-@media only screen and (max-device-width: 866px){
+@media (max-width: 866px){
 	#column-left {
 		max-width: 280px;
 	}
 }
 
-@media only screen and (min-device-width: 1051px) {
+@media (min-width: 1051px) {
 	.icon-menu {
 		display: none;
 	}
 }
 
-@media only screen and (max-device-width: 949px) {
+@media (max-width: 949px) {
 	#weather {
 		float: right;
 		margin: 50px 20px 0 20px;
 	}
 }
 
-@media only screen and (min-device-width: 950px) {
+@media (min-width: 950px) {
 	#weather {
 		position: absolute;
 		top: 50px;
@@ -76,14 +76,14 @@
 	}
 }
 
-@media only screen and (max-device-width: 894px) {
+@media (max-width: 894px) {
 	#clock {
 		float: right;
 		margin-top: 53px;
 	}
 }
 
-@media only screen and (min-device-width: 895px) {
+@media (min-width: 895px) {
 	#clock {
 		position: absolute;
 		top: 53px;
@@ -91,13 +91,13 @@
 	}
 }
 
-@media only screen and (min-device-width: 831px) {
+@media (min-width: 831px) {
 	#small-logo, #aside {
 		display: none;
 	}
 }
 
-@media only screen and (max-device-width: 830px) {
+@media (max-width: 830px) {
 	#clock, #weather, #city, #logo {
 		display: none;
 	}
@@ -120,30 +120,30 @@
 	}
 }
 
-@media only screen and (min-device-width: 616px) {
+@media (min-width: 616px) {
 	#search-new {
 		display: none;
 	}
 }
 
-@media only screen and (max-device-width: 615px) {
+@media (max-width: 615px) {
 	.search {
 		display: none;
 	}
 }
-@media only screen and (max-device-width: 756px) {
+@media (max-width: 756px) {
 	#column-center {
 		-webkit-box-ordinal-group: 0;
 		    -ms-flex-order: -1;
 		        order: -1;
 	}
 }
-@media only screen and (max-device-width: 500px) {	
+@media (max-width: 500px) {	
 	h3 {
 		font-size: 21px;
 	}
 }
-@media only screen and (max-device-width: 380px) {
+@media (max-width: 380px) {
 	#flex-bottom, #flex-top {
 		padding: 0;
 	}
@@ -158,7 +158,7 @@
 		height: 310px;
 	}
 }
-@media only screen and (max-device-width: 477px) {
+@media (max-width: 477px) {
 	#navalniy, #pasport, #youtube, #kein {
 		float: none;
 		width: 320px;
@@ -174,7 +174,7 @@
 		margin: 0 25px;
 	}
 }
-@media only screen and (max-device-width: 477px) {
+@media (max-width: 477px) {
 	#column3 ul {
 		-webkit-column-count: 2;
 		column-count: 2;
@@ -189,7 +189,7 @@
 		text-align: left;
 	}
 }
-@media only screen and (max-device-width: 699px) {
+@media (max-width: 699px) {
 	#column4-1 {
 		width: 100%;
 		border-bottom:1px solid #26354e;
@@ -199,7 +199,7 @@
 		border-bottom: none;
 	}
 }
-@media only screen and (max-device-width: 428px) {
+@media (max-width: 428px) {
 	#post-news {
 		line-height: normal;
 	}
