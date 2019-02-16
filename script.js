@@ -5,12 +5,12 @@ $(document).ready(function() {
 			$('.close-js').hide();
 			$('.icon-menu-js').show();
 			$(this).removeClass('active');
-			$("html,body").css("overflow", "visible");
+			$("html,body").css("position", "static");
 		} else {
 			$('.close-js').show();
 			$('.icon-menu-js').hide();
 			$(this).addClass('active');
-			$("html,body").css("overflow", "hidden");
+			$("html,body").css("position", "fixed");
 		}
 	});
 });
