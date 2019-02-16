@@ -264,6 +264,11 @@ header {
 		color: white;
 		height: 166px;
 	}
+
+	#castle h3 {
+		width: 320px;
+	}
+	
 		.castle-item-props {
 			font-size: 12px;
 		}
