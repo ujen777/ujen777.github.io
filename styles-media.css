@@ -49,9 +49,9 @@
 	}
 }
 
-@media (max-width: 866px){
+@media (max-width: 860px){
 	#column-left {
-		max-width: 280px;
+		max-width: 320px;
 	}
 }
 
