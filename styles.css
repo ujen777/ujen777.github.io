@@ -102,7 +102,7 @@ header {
 
 #data {
 	color: #91919f;
-	width: 88px;
+	min-width: 88px;
 }
 
 #clock-new {
