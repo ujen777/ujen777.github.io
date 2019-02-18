@@ -52,6 +52,22 @@
 	}
 }
 
+@media (max-width: 559px) {
+	#column-right {
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		width: auto;	
+	}
+	#column-right img:first-of-type {
+		margin-right: 0px;
+	}
+}
+
 @media (max-width: 860px){
 	#column-left {
 		max-width: 320px;
