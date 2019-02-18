@@ -227,3 +227,8 @@
 		line-height: normal;
 	}
 }
+@media (max-width: 324px) {
+	#castle h3 {
+		width: 300px;
+	}
+}
