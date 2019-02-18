@@ -420,7 +420,8 @@ header {
 		}
 
 #special-news-right {
-	width: 372px;
+	min-width: 320px;
+	max-width: 588px;
 	height: 393px;
 	float: right;
 	background-color: white;
