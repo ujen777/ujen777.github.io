@@ -239,3 +239,9 @@
 		line-height: normal;
 	}
 }
+@media (min-width: 992px) {
+	#flex-bottom {
+		-ms-flex-wrap: 	nowrap;
+		    flex-wrap: 	nowrap;
+	}
+}
