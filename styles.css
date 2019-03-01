@@ -335,9 +335,9 @@ header {
 		}
 
 	#pasport {
-		padding-top: 155px;
+		padding-top: 150px;
 		width: 200px;
-		margin-top: 15px;
+		margin-top: 20px;
 		background: url('img/pasport.png') no-repeat 50% 0;
 		position: relative;
 		float: right;

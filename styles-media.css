@@ -170,8 +170,12 @@
 	}
 }
 @media (max-width: 477px) {
+	#castle {
+		width: 280px;
+	}
+
 	#castle h3 {
-		width: 300px;
+		width: 280px;
 	}
 }
 
